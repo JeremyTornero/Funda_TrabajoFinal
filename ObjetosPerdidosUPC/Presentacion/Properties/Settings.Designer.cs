@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ObjetosPerdidosUPC.Properties
+namespace Presentacion.Properties
 {
 
 
